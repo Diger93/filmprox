@@ -1,0 +1,14 @@
+{
+  "versionCode": 5,
+  "versionName": "2.3.1",
+  "apk": "https://github.com/Diger93/filmprox/releases/latest/download/filmprox.apk",
+  "size": 2951586,
+  "sha256": "890e8087156e5bdf77a74ed1f6be17ec655644cb81ef3b5c86de95453d96301d",
+  "mandatory": false,
+  "publishedAt": "2026-11-13",
+  "notes": ["2.3.1", "Тест необязательного обновления: баннер, карточка и установка без блокировки."],
+  "history": [
+    {"versionCode": 5, "versionName": "2.3.1", "publishedAt": "2026-11-13", "notes": ["2.3.1", "Тест необязательного обновления."]},
+    {"versionCode": 4, "versionName": "2.3.0", "publishedAt": "2026-11-13", "notes": ["2.3.0", "GitHub-канал обновлений."]}
+  ]
+}
